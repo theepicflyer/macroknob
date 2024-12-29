@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D3,D2,D1";"Diode_SOD-123";3;"Diode";;;
+2;"SW1";"Encoder_EC11_MX";1;"RotaryEncoder_Switch";;;
+3;"U1";"Nice_Nano_V2";1;"Nice_Nano_V2";;;
+4;"S2,S1";"MX_PCB_1.00u";2;"Keyswitch";;;
+5;"+ BAT -";"JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal";1;"Conn_01x02_Socket";;;
